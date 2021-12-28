@@ -1,0 +1,10 @@
+{
+  "license": "Unlicense",
+  "type": "module",
+  "dependencies": {
+    "edn-data": "^0.2.0",
+    "transit-js": "^0.8.874",
+    "ws": "^8.3.0"
+  },
+  "packageManager": "yarn@3.1.1"
+}
